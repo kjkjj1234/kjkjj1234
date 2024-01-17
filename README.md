@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 🐱 About Me
 
-[![kjkjj1357 Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjkjj1357@gmail.com)](kjkjj1357@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=kjkjj1357@gmail.com&logoColor=white&link=mailto:kjkjj1357@gmail.com)](kjkjj1357@gmail.com)
   [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:kjkjj1234@naver.com)](kjkjj1234@naver.com)
   [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://juggume.tistory.com/)](https://juggume.tistory.com/)
 
